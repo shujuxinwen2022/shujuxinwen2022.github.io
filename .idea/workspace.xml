@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="91678b81-a6e9-409a-b45b-74ecc64378a2" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExportToHTMLSettings">
+    <option name="printScope" value="1" />
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/exportToHTML" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IDGdqbNb51fV306k8M6iO19fwB" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "D:/SCUT/大三/数据新闻/webstorm项目/数据新闻作品/img",
+    "list.type.of.created.stylesheet": "CSS",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\SCUT\大三\数据新闻\webstorm项目\数据新闻作品\img" />
+      <recent name="D:\SCUT\大三\数据新闻\webstorm项目\数据新闻作品\video" />
+      <recent name="D:\SCUT\大三\数据新闻\webstorm项目\数据新闻作品\js" />
+      <recent name="D:\SCUT\大三\数据新闻\webstorm项目\数据新闻作品\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\SCUT\大三\数据新闻\webstorm项目\数据新闻作品\css" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="91678b81-a6e9-409a-b45b-74ecc64378a2" name="Changes" comment="" />
+      <created>1669708830700</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1669708830700</updated>
+      <workItem from="1669708832319" duration="2007000" />
+      <workItem from="1670156690347" duration="1073000" />
+      <workItem from="1670216278956" duration="13016000" />
+      <workItem from="1670306188562" duration="23111000" />
+      <workItem from="1670392042173" duration="14989000" />
+      <workItem from="1670416965104" duration="11647000" />
+      <workItem from="1670475294002" duration="35162000" />
+      <workItem from="1670560463310" duration="23755000" />
+      <workItem from="1670649078174" duration="23444000" />
+      <workItem from="1670724875590" duration="22678000" />
+      <workItem from="1670822913647" duration="297000" />
+      <workItem from="1670828489354" duration="320000" />
+      <workItem from="1670837775834" duration="39000" />
+      <workItem from="1670837817297" duration="8155000" />
+      <workItem from="1670849107080" duration="4503000" />
+      <workItem from="1670854198047" duration="5611000" />
+      <workItem from="1670860104260" duration="232000" />
+      <workItem from="1670897395388" duration="1464000" />
+      <workItem from="1670901944300" duration="6265000" />
+      <workItem from="1670911868044" duration="4000" />
+      <workItem from="1670914047458" duration="2062000" />
+      <workItem from="1670916424190" duration="27000" />
+      <workItem from="1670919592617" duration="792000" />
+      <workItem from="1671195233471" duration="9000" />
+      <workItem from="1672707462964" duration="789000" />
+      <workItem from="1672714844604" duration="8627000" />
+      <workItem from="1672799216741" duration="4779000" />
+      <workItem from="1672822793745" duration="36000" />
+      <workItem from="1672886151707" duration="929000" />
+      <workItem from="1673066309092" duration="1322000" />
+      <workItem from="1673240991490" duration="1041000" />
+      <workItem from="1673333594188" duration="591000" />
+      <workItem from="1673535787714" duration="399000" />
+      <workItem from="1673536354837" duration="3717000" />
+      <workItem from="1673578303890" duration="166000" />
+      <workItem from="1673579993763" duration="5999000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
